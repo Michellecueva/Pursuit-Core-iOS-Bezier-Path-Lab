@@ -12,7 +12,6 @@
 		CDDE3FC523BE8703008FB531 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDDE3FC423BE8703008FB531 /* SceneDelegate.swift */; };
 		CDDE3FC723BE8703008FB531 /* LineDrawingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDDE3FC623BE8703008FB531 /* LineDrawingViewController.swift */; };
 		CDDE3FCF23BE8707008FB531 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDDE3FCD23BE8707008FB531 /* LaunchScreen.storyboard */; };
-		CDDE3FD723BE871F008FB531 /* LineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDDE3FD623BE871F008FB531 /* LineView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		CDDE3FC623BE8703008FB531 /* LineDrawingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineDrawingViewController.swift; sourceTree = "<group>"; };
 		CDDE3FCE23BE8707008FB531 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDDE3FD023BE8707008FB531 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CDDE3FD623BE871F008FB531 /* LineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 				CDDE3FC223BE8703008FB531 /* AppDelegate.swift */,
 				CDDE3FC423BE8703008FB531 /* SceneDelegate.swift */,
 				CDDE3FC623BE8703008FB531 /* LineDrawingViewController.swift */,
-				CDDE3FD623BE871F008FB531 /* LineView.swift */,
 				CDDE3FCD23BE8707008FB531 /* LaunchScreen.storyboard */,
 				CD1C360023BE9A7B00AEC766 /* Main.storyboard */,
 				CDDE3FD023BE8707008FB531 /* Info.plist */,
@@ -137,7 +134,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDDE3FD723BE871F008FB531 /* LineView.swift in Sources */,
 				CDDE3FC723BE8703008FB531 /* LineDrawingViewController.swift in Sources */,
 				CDDE3FC323BE8703008FB531 /* AppDelegate.swift in Sources */,
 				CDDE3FC523BE8703008FB531 /* SceneDelegate.swift in Sources */,
